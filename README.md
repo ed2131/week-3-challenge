@@ -12,7 +12,7 @@ N/A, the app runs within a wed browser
 
 ## Usage
 
-The app produces randomly generated passwords to fit the user defined criteria, 
+The app produces randomly generated passwords to fit the user defined criteria. Start by clicking or tapping the "Generate password" button, a prompt will apppear on screen asking for a passowrd length, Enter any value betwwen 8 and 128 and click "Okay". follow the proceeding prompts and a password will be generated for the user. 
 
 ## Credits
 
