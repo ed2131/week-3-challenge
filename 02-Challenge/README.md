@@ -2,7 +2,7 @@
 
 ## Desription
 
-Modified a pre existing starter code by adding a .js file to create a browser based application that enables employees to generate random passwords based on criteria that they select.
+Modified a pre existing starter code by adding a javaScript file to create a browser based application that enables employees to generate random passwords based on criteria that they select.
 The app features dynamically updated HTML and CSS driven by JavaScript code.
 
 
